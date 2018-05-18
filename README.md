@@ -1,4 +1,4 @@
-##How to play the game
+How to play the game
 
 To play the game make sure that you have 3.4.2 installed.
 
